@@ -21,4 +21,7 @@ it is python library used to create graph and plot
 
 
 <!-- Histogram -->
-it is  a graph that shows how data is distributed
+A histogram is a graph that shows how data is distributed across different ranges or intervals. It groups numbers into "bins" (ranges) and uses bars to show how many data points fall into each bin.
+
+<!-- Scatter Plot -->
+A scatter plot is a graph that shows the relationship between two variables. Each point represents one data item, with its position determined by values on the x-axis and y-axis
